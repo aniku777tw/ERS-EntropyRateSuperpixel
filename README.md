@@ -1,6 +1,7 @@
 # ERS-EntropyRateSuperpixel
 great work form :
 https://github.com/mingyuliutw/EntropyRateSuperpixel
+and
 https://github.com/wctu/SEAL
 
 If you get the error about "Can't find module <module name>".
