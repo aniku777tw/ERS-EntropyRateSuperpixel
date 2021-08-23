@@ -12,11 +12,11 @@ make it can be use in Python3
 go to folder ERSPython  
 run command
 
-python compile_cpp.py build  
+    python compile_cpp.py build  
 
 and then you can get the .pyd   
 
-Have fun !
+Have fun !  
 
-#Run demo 
-python demoERS.py
+# Run demo 
+    python demoERS.py  
