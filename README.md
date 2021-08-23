@@ -4,7 +4,7 @@ https://github.com/mingyuliutw/EntropyRateSuperpixel
 and  
 https://github.com/wctu/SEAL  
 
-If you get the error about "Can't find module <module name>".  
+If you get the error about "ImportError: DLL load failed: The specified module could not be found.".  
 Then you are at the right place. :)  
 The reason is the python version!    
 # info  
