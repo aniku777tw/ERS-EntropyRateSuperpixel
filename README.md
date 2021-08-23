@@ -5,8 +5,8 @@ and
 https://github.com/wctu/SEAL  
 
 If you get the error about "Can't find module <module name>".  
-Then you are at the right place. :) 
-The reason is the version of python!    
+Then you are at the right place. :)  
+The reason is the python version!    
 # info  
 make it can be use in Python3  
 go to folder ERSPython  
