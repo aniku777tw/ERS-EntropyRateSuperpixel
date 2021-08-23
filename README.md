@@ -1,5 +1,5 @@
 # ERS-EntropyRateSuperpixel
-great work form :  
+great work from :  
 https://github.com/mingyuliutw/EntropyRateSuperpixel  
 and  
 https://github.com/wctu/SEAL  
