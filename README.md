@@ -9,7 +9,7 @@ Then you are at the right place. :)
 The reason is the python version!    
 # How to rebuild the model  
 make it can be use in Python3  
-go to folder ERSPython  
+go to folder ERS_Python  
 run command
 
     python compile_cpp.py build  
